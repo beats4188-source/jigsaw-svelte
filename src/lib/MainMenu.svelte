@@ -5,7 +5,7 @@
 	let imgInput;
 	// Your uploaded image URL
 	const HARDCODED_IMAGE_URL = "https://github.com/beats4188-source/adsadsas/blob/main/WhatsApp%20Image%202025-08-19%20at%2019.56.01_e8996e94.jpg?raw=true"
-	const options = ['Easy', 'Medium', 'Hard','debug'];
+	const options = ['Easy', 'Medium', 'Hard'];
 	let selected = options[0];
 	$num_rows = 5;
 	function setLevel() {
