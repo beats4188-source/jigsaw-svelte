@@ -4,7 +4,7 @@
 	export let jigsawSrc;
 	let imgInput;
 	// Your uploaded image URL
-	const HARDCODED_IMAGE_URL = "https://github.com/beats4188-source/adsadsas/blob/main/WhatsApp%20Image%202025-08-18%20at%2019.59.36_e436dba7.jpg?raw=true";
+	const HARDCODED_IMAGE_URL = "https://github.com/beats4188-source/adsadsas/blob/main/WhatsApp%20Image%202025-08-19%20at%2019.56.01_e8996e94.jpg?raw=true"
 	const options = ['Easy', 'Medium', 'Hard','debug'];
 	let selected = options[0];
 	$num_rows = 5;
@@ -85,14 +85,15 @@
 				<p class="text-pink-900 text-center leading-loose text-base font-medium" style="font-family: 'Comic Sans MS', cursive;">
 				
 					
-					<span class="text-sm text-pink-800 font-medium">Hey gorgeous puzzle angel! 🥰✨</span><br>
-					<span class="text-sm text-pink-800 font-medium">Ready to create something magical</span><br>
-					<span class="text-sm text-pink-800 font-medium">to find its perfect match! 🌸💖</span><br>
+					<span class="text-sm text-pink-800 font-medium">Hlke hlke sab tukde jud jaayenge 💞</span><br>
+					<span class="text-sm text-pink-800 font-medium">Waise hi jaise do dil mil rahe hain ❤️</span><br>
+					<span class="text-sm text-pink-800 font-medium">Pyaar ki nazuk hawa mein 🌸</span><br>
 					
-					<span class="text-sm text-pink-800 font-medium">to find its perfect match! 🌸💖</span><br>
-					<span class="text-sm text-pink-800 font-medium">Let's make beauty together, bestie! 🦋</span>
+					<span class="text-sm text-pink-800 font-medium">Dhairya se khelna, kyunki ✨</span><br>
+					<span class="text-sm text-pink-800 font-medium">Jaise hi khel poora hoga 🎉</span><br>
+					<span class="text-sm text-pink-800 font-medium">Ek naya surprise khul jaayega 🎁💖
 				</p>
-				<div class="text-right text-rose-600 text-sm mt-3 font-medium" style="font-family: 'Comic Sans MS', cursive;">hugs & kisses 💋🤗</div>
+				<div class="text-right text-rose-600 text-sm mt-3 font-medium" style="font-family: 'Comic Sans MS', cursive;">hugs & kisses 🤗</div>
 			</div>
 		</div>
 		

@@ -55,7 +55,11 @@
 			<p style="color: #880e4f; font-size: 1rem; font-family: Georgia, serif; font-style: italic; line-height: 1.6; margin: 1rem 0;">
 				"Every puzzle we solve together brings us closer. You make every moment magical, my love! ✨💖"
 			</p>
-			<div style="color: #ad1457; font-size: 0.9rem; font-weight: 600; margin-top: 1rem;">- With all my love 💌</div>
+		<div style="color: #ad1457; font-size: 0.9rem; font-weight: 600; margin-top: 1rem;">
+  -  your surprise is waiting for you: <br>
+  <a href="https://youtube.com/shorts/D9AkJELh-xM?feature=shared" target="_blank" rel="noopener noreferrer" style="color: #d81b60; text-decoration: underline;">Click here 🎁</a>
+</div>
+
 		</div>
 
 		<!-- New Game Button -->
