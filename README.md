@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jigsaw puzzle game
 
 A web app where you can solve a jigsaw puzzle with a random image or your own.  
@@ -52,3 +53,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ### Acknowledgments
 
 - This project was inspired by [this tutorial](https://www.youtube.com/watch?v=HS6KHYIYdXc)
+=======
+# jigsaw-svelte
+>>>>>>> a896561a8f4241a4610a2d5a18bb6e9fff9f2575
